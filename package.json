@@ -1,7 +1,7 @@
 {
-  "name": "entity-schema-interface",
+  "name": "entity-schema",
   "version": "0.0.0-development",
-  "description": "An interface for entity schemas expressed in JSON API resource objects.",
+  "description": "An interface for JSON API entity schemas.",
   "main": "lib/Schema.js",
   "scripts": {
     "test": "jest --coverage --verbose",
