@@ -2,6 +2,10 @@
 
 entity-schema is an interface for JSON API entity schemas. entity-schema will be useful to you if you are using [JSON Schema](http://json-schema.org/) to model your entities according to the [JSON API Rsource Object spec](http://jsonapi.org/format/#document-resource-objects). It allows you to do things like retrieve all field schemas or retrieve a relationship schema by name. entity-schema is still in early development. It should not be considered stable and there are many new features planned!
 
+## Installation
+
+`yarn add entity-schema` or `npm i --save entity-schema`
+
 ## Usage
 
 Suppose you have the following entity schema:
